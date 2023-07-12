@@ -1,0 +1,989 @@
+Parameters from XFF version: "XFF3.0.1.4-resp-vdw-0.1"
+MASS
+o0    15.999
+c4    12.011
+c5    12.011
+c6    12.011
+c7    12.011
+n0    14.007
+ng    14.007
+c8    12.011
+c9    12.011
+cb    12.011
+ci    12.011
+cj    12.011
+ck    12.011
+cm    12.011
+cn    12.011
+nr    14.007
+co    12.011
+cq    12.011
+o1    15.999
+cr    12.011
+cs    12.011
+nw    14.007
+ct    12.011
+cw    12.011
+o2    15.999
+cA    12.011
+cB    12.011
+cC    12.011
+nA    14.007
+cD    12.011
+cE    12.011
+cF    12.011
+cG    12.011
+cH    12.011
+cI    12.011
+cJ    12.011
+nB    14.007
+h0     1.008
+h6     1.008
+h7     1.008
+h8     1.008
+h9     1.008
+hb     1.008
+hd     1.008
+he     1.008
+hf     1.008
+hg     1.008
+hh     1.008
+hi     1.008
+hj     1.008
+hk     1.008
+hl     1.008
+hm     1.008
+hq     1.008
+hr     1.008
+ht     1.008
+hu     1.008
+hv     1.008
+hy     1.008
+hz     1.008
+hA     1.008
+hB     1.008
+hC     1.008
+
+BOND
+o0-c4    727.744   1.224
+c4-c5    246.112   1.455
+c4-ng    248.031   1.352
+c5-c6    522.618   1.341
+c5-h0    355.194   1.086
+c6-c7    390.452   1.443
+c6-h6    355.194   1.086
+c7-n0    493.012   1.278
+c7-cD    228.653   1.458
+n0-ng    253.754   1.309
+ng-c8    206.403   1.431
+c8-c9    206.103   1.504
+c8-h7    316.922   1.097
+c8-h8    316.922   1.097
+c9-cb    358.547   1.387
+c9-cm    358.547   1.387
+cb-ci    358.547   1.387
+cb-h9    352.181   1.086
+ci-cj    358.547   1.387
+ci-hb    352.181   1.086
+cj-ck    335.641   1.386
+cj-hd    352.181   1.086
+ck-cm    335.641   1.386
+ck-cn    236.944   1.450
+cm-he    352.181   1.086
+cn-nr    339.572   1.331
+cn-nA    339.572   1.331
+nr-co    359.352   1.335
+co-cq    358.547   1.387
+co-hf    352.181   1.086
+cq-o1    299.427   1.353
+cq-cC    358.547   1.387
+o1-cr    222.793   1.404
+cr-cs    204.311   1.514
+cr-hg    320.177   1.097
+cr-hh    320.177   1.097
+cs-nw    209.334   1.434
+cs-hi    316.922   1.097
+cs-hj    316.922   1.097
+nw-ct    320.600   1.446
+nw-cB    320.600   1.446
+ct-cw    188.590   1.519
+ct-hk    321.642   1.097
+ct-hl    321.642   1.097
+cw-o2    301.500   1.407
+cw-hm    321.642   1.097
+cw-hq    321.642   1.097
+o2-cA    301.500   1.407
+cA-cB    188.590   1.519
+cA-hr    321.642   1.097
+cA-ht    321.642   1.097
+cB-hu    321.642   1.097
+cB-hv    321.642   1.097
+cC-nA    359.352   1.335
+cC-hy    352.181   1.086
+cD-cE    335.641   1.386
+cD-cI    335.641   1.386
+cE-cF    358.547   1.387
+cE-hz    352.181   1.086
+cF-cG    358.547   1.387
+cF-hA    352.181   1.086
+cG-cH    358.547   1.387
+cG-hB    352.181   1.086
+cH-cI    358.547   1.387
+cH-cJ    292.581   1.427
+cI-hC    352.181   1.086
+cJ-nB   1250.762   1.164
+
+ANGLE
+o0-c4-c5     59.182  131.582
+o0-c4-ng     63.461  124.534
+c5-c4-ng    110.262  114.946
+c4-c5-c6     72.775  120.741
+c4-c5-h0     29.051  118.786
+c6-c5-h0     29.503  120.468
+c5-c6-c7     74.495  121.290
+c5-c6-h6     29.503  120.468
+c7-c6-h6     30.095  118.891
+c6-c7-n0     67.509  121.794
+c6-c7-cD     84.224  123.169
+n0-c7-cD     65.566  117.465
+c7-n0-ng    139.796  115.490
+c4-ng-n0     78.130  121.253
+c4-ng-c8     78.551  116.981
+n0-ng-c8     85.826  114.933
+ng-c8-c9    102.430  112.662
+ng-c8-h7     56.215  109.329
+ng-c8-h8     56.215  109.329
+c9-c8-h7     50.193  110.645
+c9-c8-h8     50.193  110.645
+h7-c8-h8     36.656  108.716
+c8-c9-cb     80.365  120.640
+c8-c9-cm     80.365  120.640
+cb-c9-cm     91.476  119.673
+c9-cb-ci     91.476  119.673
+c9-cb-h9     31.098  115.415
+ci-cb-h9     31.098  115.415
+cb-ci-cj     91.476  119.673
+cb-ci-hb     31.098  115.415
+cj-ci-hb     31.098  115.415
+ci-cj-ck     91.476  119.673
+ci-cj-hd     31.098  115.415
+ck-cj-hd     31.098  115.415
+cj-ck-cm     93.758  121.320
+cj-ck-cn     93.758  121.320
+cm-ck-cn     93.758  121.320
+c9-cm-ck     91.476  119.673
+c9-cm-he     31.098  115.415
+ck-cm-he     31.098  115.415
+ck-cn-nr     82.520  123.956
+ck-cn-nA     82.520  123.956
+nr-cn-nA     80.517  133.858
+cn-nr-co    136.829  118.965
+nr-co-cq     78.864  126.055
+nr-co-hf     31.926  111.482
+cq-co-hf     31.098  115.415
+co-cq-o1     76.828  115.926
+co-cq-cC     91.476  119.673
+o1-cq-cC     76.828  115.926
+cq-o1-cr    145.460  115.024
+o1-cr-cs    100.231  111.015
+o1-cr-hg     55.876  110.797
+o1-cr-hh     55.876  110.797
+cs-cr-hg     58.026  112.414
+cs-cr-hh     58.026  112.414
+hg-cr-hh     39.647  112.614
+cr-cs-nw     99.978  109.413
+cr-cs-hi     56.727  109.901
+cr-cs-hj     56.727  109.901
+nw-cs-hi     56.215  109.329
+nw-cs-hj     56.215  109.329
+hi-cs-hj     36.656  108.716
+cs-nw-ct     64.008  111.221
+cs-nw-cB     64.008  111.221
+ct-nw-cB     64.008  110.093
+nw-ct-cw     66.390  109.005
+nw-ct-hk     49.370  107.664
+nw-ct-hl     49.370  107.664
+cw-ct-hk     51.274  108.986
+cw-ct-hl     51.274  108.986
+hk-ct-hl     35.039  106.325
+ct-cw-o2     99.747  108.268
+ct-cw-hm     51.274  108.986
+ct-cw-hq     51.274  108.986
+o2-cw-hm     56.685  106.935
+o2-cw-hq     56.685  106.935
+hm-cw-hq     35.039  106.325
+cw-o2-cA     63.912  106.946
+o2-cA-cB     99.747  108.268
+o2-cA-hr     56.685  106.935
+o2-cA-ht     56.685  106.935
+cB-cA-hr     51.274  108.986
+cB-cA-ht     51.274  108.986
+hr-cA-ht     35.039  106.325
+nw-cB-cA     66.390  109.005
+nw-cB-hu     49.370  107.664
+nw-cB-hv     49.370  107.664
+cA-cB-hu     51.274  108.986
+cA-cB-hv     51.274  108.986
+hu-cB-hv     35.039  106.325
+cq-cC-nA     78.864  126.055
+cq-cC-hy     31.098  115.415
+nA-cC-hy     31.926  111.482
+cn-nA-cC    136.829  118.965
+c7-cD-cE     84.870  120.376
+c7-cD-cI     84.870  120.376
+cE-cD-cI     93.758  121.320
+cD-cE-cF     91.476  119.673
+cD-cE-hz     31.098  115.415
+cF-cE-hz     31.098  115.415
+cE-cF-cG     91.476  119.673
+cE-cF-hA     31.098  115.415
+cG-cF-hA     31.098  115.415
+cF-cG-cH     91.476  119.673
+cF-cG-hB     31.098  115.415
+cH-cG-hB     31.098  115.415
+cG-cH-cI     91.476  119.673
+cG-cH-cJ     60.378  117.852
+cI-cH-cJ     60.378  117.852
+cD-cI-cH     91.476  119.673
+cD-cI-hC     31.098  115.415
+cH-cI-hC     31.098  115.415
+cH-cJ-nB     44.924  179.708
+
+DIHE
+c6-c5-c4-o0    1     0.36699878    0.000  -1.0    SCEE=1.2 SCNB=2
+c6-c5-c4-o0    1     0.57916529  180.000  -2.0    SCEE=1.2 SCNB=2
+c6-c5-c4-o0    1     0.01240913    0.000  -3.0    SCEE=1.2 SCNB=2
+c6-c5-c4-o0    1     0.05414755  180.000   4.0    SCEE=1.2 SCNB=2
+h0-c5-c4-o0    1    -0.26670142    0.000  -1.0    SCEE=1.2 SCNB=2
+h0-c5-c4-o0    1     0.71933968  180.000  -2.0    SCEE=1.2 SCNB=2
+h0-c5-c4-o0    1     0.18943943    0.000  -3.0    SCEE=1.2 SCNB=2
+h0-c5-c4-o0    1     0.18420955  180.000   4.0    SCEE=1.2 SCNB=2
+n0-ng-c4-o0    1    -1.38842415    0.000  -1.0    SCEE=1.2 SCNB=2
+n0-ng-c4-o0    1     2.29171814  180.000  -2.0    SCEE=1.2 SCNB=2
+n0-ng-c4-o0    1     0.18264079    0.000  -3.0    SCEE=1.2 SCNB=2
+n0-ng-c4-o0    1    -0.16988972  180.000   4.0    SCEE=1.2 SCNB=2
+c8-ng-c4-o0    1    -0.19322967    0.000  -1.0    SCEE=1.2 SCNB=2
+c8-ng-c4-o0    1     3.65677873  180.000  -2.0    SCEE=1.2 SCNB=2
+c8-ng-c4-o0    1     0.18340715    0.000  -3.0    SCEE=1.2 SCNB=2
+c8-ng-c4-o0    1    -0.41370611  180.000   4.0    SCEE=1.2 SCNB=2
+c6-c5-c4-ng    1    -0.19193969    0.000  -1.0    SCEE=1.2 SCNB=2
+c6-c5-c4-ng    1     1.01753196  180.000  -2.0    SCEE=1.2 SCNB=2
+c6-c5-c4-ng    1    -0.30830534    0.000  -3.0    SCEE=1.2 SCNB=2
+c6-c5-c4-ng    1     0.02374865  180.000   4.0    SCEE=1.2 SCNB=2
+h0-c5-c4-ng    1     0.21187463    0.000  -1.0    SCEE=1.2 SCNB=2
+h0-c5-c4-ng    1     1.90176178  180.000  -2.0    SCEE=1.2 SCNB=2
+h0-c5-c4-ng    1    -0.39951097    0.000  -3.0    SCEE=1.2 SCNB=2
+h0-c5-c4-ng    1    -0.26238369  180.000   4.0    SCEE=1.2 SCNB=2
+c5-c4-ng-n0    1    -1.31033010    0.000  -1.0    SCEE=1.2 SCNB=2
+c5-c4-ng-n0    1     3.73039484  180.000  -2.0    SCEE=1.2 SCNB=2
+c5-c4-ng-n0    1     0.42011380    0.000  -3.0    SCEE=1.2 SCNB=2
+c5-c4-ng-n0    1    -0.44687906  180.000   4.0    SCEE=1.2 SCNB=2
+c5-c4-ng-c8    1    -0.44168641    0.000  -1.0    SCEE=1.2 SCNB=2
+c5-c4-ng-c8    1     3.27256150  180.000  -2.0    SCEE=1.2 SCNB=2
+c5-c4-ng-c8    1     0.67704764    0.000  -3.0    SCEE=1.2 SCNB=2
+c5-c4-ng-c8    1    -0.29656517  180.000   4.0    SCEE=1.2 SCNB=2
+c4-c5-c6-c7    1    -0.02245704    0.000  -1.0    SCEE=1.2 SCNB=2
+c4-c5-c6-c7    1     1.07495039  180.000  -2.0    SCEE=1.2 SCNB=2
+c4-c5-c6-c7    1    -0.16953886    0.000  -3.0    SCEE=1.2 SCNB=2
+c4-c5-c6-c7    1     0.22942922  180.000   4.0    SCEE=1.2 SCNB=2
+c4-c5-c6-h6    1     0.84530738    0.000  -1.0    SCEE=1.2 SCNB=2
+c4-c5-c6-h6    1     2.26585840  180.000  -2.0    SCEE=1.2 SCNB=2
+c4-c5-c6-h6    1     0.54306784    0.000  -3.0    SCEE=1.2 SCNB=2
+c4-c5-c6-h6    1     0.00060636  180.000   4.0    SCEE=1.2 SCNB=2
+c7-c6-c5-h0    1    -0.01956746    0.000  -1.0    SCEE=1.2 SCNB=2
+c7-c6-c5-h0    1     1.68739456  180.000  -2.0    SCEE=1.2 SCNB=2
+c7-c6-c5-h0    1    -0.12668635    0.000  -3.0    SCEE=1.2 SCNB=2
+c7-c6-c5-h0    1     0.05484050  180.000   4.0    SCEE=1.2 SCNB=2
+h0-c5-c6-h6    1    -0.28649832    0.000  -1.0    SCEE=1.2 SCNB=2
+h0-c5-c6-h6    1     2.47581619  180.000  -2.0    SCEE=1.2 SCNB=2
+h0-c5-c6-h6    1     0.21370163    0.000  -3.0    SCEE=1.2 SCNB=2
+h0-c5-c6-h6    1     0.23961844  180.000   4.0    SCEE=1.2 SCNB=2
+c5-c6-c7-n0    1    -0.06365555    0.000  -1.0    SCEE=1.2 SCNB=2
+c5-c6-c7-n0    1     1.12818515  180.000  -2.0    SCEE=1.2 SCNB=2
+c5-c6-c7-n0    1     0.27559179    0.000  -3.0    SCEE=1.2 SCNB=2
+c5-c6-c7-n0    1    -0.18548990  180.000   4.0    SCEE=1.2 SCNB=2
+c5-c6-c7-cD    1    -0.00738867    0.000  -1.0    SCEE=1.2 SCNB=2
+c5-c6-c7-cD    1     2.04381665  180.000  -2.0    SCEE=1.2 SCNB=2
+c5-c6-c7-cD    1    -0.09181812    0.000  -3.0    SCEE=1.2 SCNB=2
+c5-c6-c7-cD    1     0.13397265  180.000   4.0    SCEE=1.2 SCNB=2
+h6-c6-c7-n0    1    -0.07415590    0.000  -1.0    SCEE=1.2 SCNB=2
+h6-c6-c7-n0    1     0.41871196  180.000  -2.0    SCEE=1.2 SCNB=2
+h6-c6-c7-n0    1    -0.31302757    0.000  -3.0    SCEE=1.2 SCNB=2
+h6-c6-c7-n0    1    -0.22000409  180.000   4.0    SCEE=1.2 SCNB=2
+cD-c7-c6-h6    1     0.00016128    0.000  -1.0    SCEE=1.2 SCNB=2
+cD-c7-c6-h6    1    -0.00019629  180.000  -2.0    SCEE=1.2 SCNB=2
+cD-c7-c6-h6    1    -0.00105905    0.000  -3.0    SCEE=1.2 SCNB=2
+cD-c7-c6-h6    1     0.00500648  180.000   4.0    SCEE=1.2 SCNB=2
+c6-c7-n0-ng    1     0.00110087    0.000  -1.0    SCEE=1.2 SCNB=2
+c6-c7-n0-ng    1     4.20153354  180.000  -2.0    SCEE=1.2 SCNB=2
+c6-c7-n0-ng    1     0.02536009    0.000  -3.0    SCEE=1.2 SCNB=2
+c6-c7-n0-ng    1     0.15161122  180.000   4.0    SCEE=1.2 SCNB=2
+c6-c7-cD-cE    1     0.12473303    0.000  -1.0    SCEE=1.2 SCNB=2
+c6-c7-cD-cE    1     0.61762603  180.000  -2.0    SCEE=1.2 SCNB=2
+c6-c7-cD-cE    1     0.07620173    0.000  -3.0    SCEE=1.2 SCNB=2
+c6-c7-cD-cE    1     0.09222741  180.000   4.0    SCEE=1.2 SCNB=2
+c6-c7-cD-cI    1     0.12473303    0.000  -1.0    SCEE=1.2 SCNB=2
+c6-c7-cD-cI    1     0.61762603  180.000  -2.0    SCEE=1.2 SCNB=2
+c6-c7-cD-cI    1     0.07620173    0.000  -3.0    SCEE=1.2 SCNB=2
+c6-c7-cD-cI    1     0.09222741  180.000   4.0    SCEE=1.2 SCNB=2
+cD-c7-n0-ng    1     0.00021661    0.000  -1.0    SCEE=1.2 SCNB=2
+cD-c7-n0-ng    1     4.16150852  180.000  -2.0    SCEE=1.2 SCNB=2
+cD-c7-n0-ng    1     0.00442827    0.000  -3.0    SCEE=1.2 SCNB=2
+cD-c7-n0-ng    1     0.04414628  180.000   4.0    SCEE=1.2 SCNB=2
+cE-cD-c7-n0    1    -0.12948941    0.000  -1.0    SCEE=1.2 SCNB=2
+cE-cD-c7-n0    1     1.06551427  180.000  -2.0    SCEE=1.2 SCNB=2
+cE-cD-c7-n0    1    -0.13561538    0.000  -3.0    SCEE=1.2 SCNB=2
+cE-cD-c7-n0    1    -0.01626687  180.000   4.0    SCEE=1.2 SCNB=2
+cI-cD-c7-n0    1    -0.12948941    0.000  -1.0    SCEE=1.2 SCNB=2
+cI-cD-c7-n0    1     1.06551427  180.000  -2.0    SCEE=1.2 SCNB=2
+cI-cD-c7-n0    1    -0.13561538    0.000  -3.0    SCEE=1.2 SCNB=2
+cI-cD-c7-n0    1    -0.01626687  180.000   4.0    SCEE=1.2 SCNB=2
+c4-ng-n0-c7    1     0.44943070    0.000  -1.0    SCEE=1.2 SCNB=2
+c4-ng-n0-c7    1    -1.77952376    0.000  -2.0    SCEE=1.2 SCNB=2
+c4-ng-n0-c7    1    -0.04056723    0.000  -3.0    SCEE=1.2 SCNB=2
+c4-ng-n0-c7    1    -0.19743495  180.000   4.0    SCEE=1.2 SCNB=2
+c7-n0-ng-c8    1    -0.26544197    0.000  -1.0    SCEE=1.2 SCNB=2
+c7-n0-ng-c8    1     4.28945584  180.000  -2.0    SCEE=1.2 SCNB=2
+c7-n0-ng-c8    1    -1.11267976    0.000  -3.0    SCEE=1.2 SCNB=2
+c7-n0-ng-c8    1     0.42224187  180.000   4.0    SCEE=1.2 SCNB=2
+c4-ng-c8-c9    1     0.24228211    0.000  -1.0    SCEE=1.2 SCNB=2
+c4-ng-c8-c9    1     0.32472215    0.000  -2.0    SCEE=1.2 SCNB=2
+c4-ng-c8-c9    1     0.13680248    0.000  -3.0    SCEE=1.2 SCNB=2
+c4-ng-c8-c9    1    -0.11495788  180.000   4.0    SCEE=1.2 SCNB=2
+c4-ng-c8-h7    1    -0.22072871    0.000  -1.0    SCEE=1.2 SCNB=2
+c4-ng-c8-h7    1     0.12511515    0.000  -2.0    SCEE=1.2 SCNB=2
+c4-ng-c8-h7    1     0.00907115    0.000  -3.0    SCEE=1.2 SCNB=2
+c4-ng-c8-h7    1    -0.09510091  180.000   4.0    SCEE=1.2 SCNB=2
+c4-ng-c8-h8    1    -0.22072871    0.000  -1.0    SCEE=1.2 SCNB=2
+c4-ng-c8-h8    1     0.12511515    0.000  -2.0    SCEE=1.2 SCNB=2
+c4-ng-c8-h8    1     0.00907115    0.000  -3.0    SCEE=1.2 SCNB=2
+c4-ng-c8-h8    1    -0.09510091  180.000   4.0    SCEE=1.2 SCNB=2
+c9-c8-ng-n0    1     0.06051725    0.000  -1.0    SCEE=1.2 SCNB=2
+c9-c8-ng-n0    1     0.31039125    0.000  -2.0    SCEE=1.2 SCNB=2
+c9-c8-ng-n0    1     0.18070486    0.000  -3.0    SCEE=1.2 SCNB=2
+c9-c8-ng-n0    1    -0.11606751  180.000   4.0    SCEE=1.2 SCNB=2
+h7-c8-ng-n0    1     0.53970638    0.000  -1.0    SCEE=1.2 SCNB=2
+h7-c8-ng-n0    1     0.29225451    0.000  -2.0    SCEE=1.2 SCNB=2
+h7-c8-ng-n0    1     0.03815044    0.000  -3.0    SCEE=1.2 SCNB=2
+h7-c8-ng-n0    1     0.07537876  180.000   4.0    SCEE=1.2 SCNB=2
+h8-c8-ng-n0    1     0.53970638    0.000  -1.0    SCEE=1.2 SCNB=2
+h8-c8-ng-n0    1     0.29225451    0.000  -2.0    SCEE=1.2 SCNB=2
+h8-c8-ng-n0    1     0.03815044    0.000  -3.0    SCEE=1.2 SCNB=2
+h8-c8-ng-n0    1     0.07537876  180.000   4.0    SCEE=1.2 SCNB=2
+cb-c9-c8-ng    1    -0.05987759    0.000  -1.0    SCEE=1.2 SCNB=2
+cb-c9-c8-ng    1    -0.58523260    0.000  -2.0    SCEE=1.2 SCNB=2
+cb-c9-c8-ng    1     0.37163146    0.000  -3.0    SCEE=1.2 SCNB=2
+cb-c9-c8-ng    1     0.04996101  180.000   4.0    SCEE=1.2 SCNB=2
+cm-c9-c8-ng    1    -0.05987759    0.000  -1.0    SCEE=1.2 SCNB=2
+cm-c9-c8-ng    1    -0.58523260    0.000  -2.0    SCEE=1.2 SCNB=2
+cm-c9-c8-ng    1     0.37163146    0.000  -3.0    SCEE=1.2 SCNB=2
+cm-c9-c8-ng    1     0.04996101  180.000   4.0    SCEE=1.2 SCNB=2
+cb-c9-c8-h7    1    -0.10466168    0.000  -1.0    SCEE=1.2 SCNB=2
+cb-c9-c8-h7    1    -0.30373780    0.000  -2.0    SCEE=1.2 SCNB=2
+cb-c9-c8-h7    1    -0.08447812    0.000  -3.0    SCEE=1.2 SCNB=2
+cb-c9-c8-h7    1     0.04359593  180.000   4.0    SCEE=1.2 SCNB=2
+cm-c9-c8-h7    1    -0.10466168    0.000  -1.0    SCEE=1.2 SCNB=2
+cm-c9-c8-h7    1    -0.30373780    0.000  -2.0    SCEE=1.2 SCNB=2
+cm-c9-c8-h7    1    -0.08447812    0.000  -3.0    SCEE=1.2 SCNB=2
+cm-c9-c8-h7    1     0.04359593  180.000   4.0    SCEE=1.2 SCNB=2
+cb-c9-c8-h8    1    -0.10466168    0.000  -1.0    SCEE=1.2 SCNB=2
+cb-c9-c8-h8    1    -0.30373780    0.000  -2.0    SCEE=1.2 SCNB=2
+cb-c9-c8-h8    1    -0.08447812    0.000  -3.0    SCEE=1.2 SCNB=2
+cb-c9-c8-h8    1     0.04359593  180.000   4.0    SCEE=1.2 SCNB=2
+cm-c9-c8-h8    1    -0.10466168    0.000  -1.0    SCEE=1.2 SCNB=2
+cm-c9-c8-h8    1    -0.30373780    0.000  -2.0    SCEE=1.2 SCNB=2
+cm-c9-c8-h8    1    -0.08447812    0.000  -3.0    SCEE=1.2 SCNB=2
+cm-c9-c8-h8    1     0.04359593  180.000   4.0    SCEE=1.2 SCNB=2
+c8-c9-cb-ci    1    -0.00739761    0.000  -1.0    SCEE=1.2 SCNB=2
+c8-c9-cb-ci    1     3.59563628  180.000  -2.0    SCEE=1.2 SCNB=2
+c8-c9-cb-ci    1    -0.06522728    0.000  -3.0    SCEE=1.2 SCNB=2
+c8-c9-cb-ci    1    -0.11389997  180.000   4.0    SCEE=1.2 SCNB=2
+c8-c9-cb-h9    1     0.02051637    0.000  -1.0    SCEE=1.2 SCNB=2
+c8-c9-cb-h9    1     3.54432576  180.000  -2.0    SCEE=1.2 SCNB=2
+c8-c9-cb-h9    1     0.17642595    0.000  -3.0    SCEE=1.2 SCNB=2
+c8-c9-cb-h9    1    -0.30143135  180.000   4.0    SCEE=1.2 SCNB=2
+c8-c9-cm-ck    1     0.00663774    0.000  -1.0    SCEE=1.2 SCNB=2
+c8-c9-cm-ck    1     3.59898943  180.000  -2.0    SCEE=1.2 SCNB=2
+c8-c9-cm-ck    1     0.05902983    0.000  -3.0    SCEE=1.2 SCNB=2
+c8-c9-cm-ck    1    -0.10219051  180.000   4.0    SCEE=1.2 SCNB=2
+c8-c9-cm-he    1     0.02051637    0.000  -1.0    SCEE=1.2 SCNB=2
+c8-c9-cm-he    1     3.54432576  180.000  -2.0    SCEE=1.2 SCNB=2
+c8-c9-cm-he    1     0.17642595    0.000  -3.0    SCEE=1.2 SCNB=2
+c8-c9-cm-he    1    -0.30143135  180.000   4.0    SCEE=1.2 SCNB=2
+ci-cb-c9-cm    1    -0.01934535    0.000  -1.0    SCEE=1.2 SCNB=2
+ci-cb-c9-cm    1     3.70502611  180.000  -2.0    SCEE=1.2 SCNB=2
+ci-cb-c9-cm    1    -0.18978539    0.000  -3.0    SCEE=1.2 SCNB=2
+ci-cb-c9-cm    1     0.36090598  180.000   4.0    SCEE=1.2 SCNB=2
+cm-c9-cb-h9    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cm-c9-cb-h9    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cm-c9-cb-h9    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cm-c9-cb-h9    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+cb-c9-cm-ck    1     0.01304760    0.000  -1.0    SCEE=1.2 SCNB=2
+cb-c9-cm-ck    1     3.57302050  180.000  -2.0    SCEE=1.2 SCNB=2
+cb-c9-cm-ck    1     0.11616909    0.000  -3.0    SCEE=1.2 SCNB=2
+cb-c9-cm-ck    1    -0.20459175  180.000   4.0    SCEE=1.2 SCNB=2
+cb-c9-cm-he    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cb-c9-cm-he    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cb-c9-cm-he    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cb-c9-cm-he    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+c9-cb-ci-cj    1     0.01444054    0.000  -1.0    SCEE=1.2 SCNB=2
+c9-cb-ci-cj    1     3.56795541  180.000  -2.0    SCEE=1.2 SCNB=2
+c9-cb-ci-cj    1     0.12569034    0.000  -3.0    SCEE=1.2 SCNB=2
+c9-cb-ci-cj    1    -0.21694286  180.000   4.0    SCEE=1.2 SCNB=2
+c9-cb-ci-hb    1    -0.02453102    0.000  -1.0    SCEE=1.2 SCNB=2
+c9-cb-ci-hb    1     3.50922248  180.000  -2.0    SCEE=1.2 SCNB=2
+c9-cb-ci-hb    1    -0.21874987    0.000  -3.0    SCEE=1.2 SCNB=2
+c9-cb-ci-hb    1    -0.45642585  180.000   4.0    SCEE=1.2 SCNB=2
+cj-ci-cb-h9    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cj-ci-cb-h9    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cj-ci-cb-h9    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cj-ci-cb-h9    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+h9-cb-ci-hb    1     0.03818398    0.000  -1.0    SCEE=1.2 SCNB=2
+h9-cb-ci-hb    1     3.47733068  180.000  -2.0    SCEE=1.2 SCNB=2
+h9-cb-ci-hb    1     0.31370508    0.000  -3.0    SCEE=1.2 SCNB=2
+h9-cb-ci-hb    1    -0.51315648  180.000   4.0    SCEE=1.2 SCNB=2
+cb-ci-cj-ck    1     0.01304760    0.000  -1.0    SCEE=1.2 SCNB=2
+cb-ci-cj-ck    1     3.57302050  180.000  -2.0    SCEE=1.2 SCNB=2
+cb-ci-cj-ck    1     0.11616909    0.000  -3.0    SCEE=1.2 SCNB=2
+cb-ci-cj-ck    1    -0.20459175  180.000   4.0    SCEE=1.2 SCNB=2
+cb-ci-cj-hd    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cb-ci-cj-hd    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cb-ci-cj-hd    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cb-ci-cj-hd    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+ck-cj-ci-hb    1    -0.00807272    0.000  -1.0    SCEE=1.2 SCNB=2
+ck-cj-ci-hb    1     3.57474905  180.000  -2.0    SCEE=1.2 SCNB=2
+ck-cj-ci-hb    1    -0.07247341    0.000  -3.0    SCEE=1.2 SCNB=2
+ck-cj-ci-hb    1    -0.19928780  180.000   4.0    SCEE=1.2 SCNB=2
+hb-ci-cj-hd    1     0.03818398    0.000  -1.0    SCEE=1.2 SCNB=2
+hb-ci-cj-hd    1     3.47733068  180.000  -2.0    SCEE=1.2 SCNB=2
+hb-ci-cj-hd    1     0.31370508    0.000  -3.0    SCEE=1.2 SCNB=2
+hb-ci-cj-hd    1    -0.51315648  180.000   4.0    SCEE=1.2 SCNB=2
+ci-cj-ck-cm    1     0.04657748    0.000  -1.0    SCEE=1.2 SCNB=2
+ci-cj-ck-cm    1     3.43950968  180.000  -2.0    SCEE=1.2 SCNB=2
+ci-cj-ck-cm    1     0.40896742    0.000  -3.0    SCEE=1.2 SCNB=2
+ci-cj-ck-cm    1    -0.71528160  180.000   4.0    SCEE=1.2 SCNB=2
+ci-cj-ck-cn    1    -0.01916447    0.000  -1.0    SCEE=1.2 SCNB=2
+ci-cj-ck-cn    1     3.54230241  180.000  -2.0    SCEE=1.2 SCNB=2
+ci-cj-ck-cn    1    -0.16368532    0.000  -3.0    SCEE=1.2 SCNB=2
+ci-cj-ck-cn    1    -0.30811720  180.000   4.0    SCEE=1.2 SCNB=2
+cm-ck-cj-hd    1    -0.05136131    0.000  -1.0    SCEE=1.2 SCNB=2
+cm-ck-cj-hd    1     3.42219591  180.000  -2.0    SCEE=1.2 SCNB=2
+cm-ck-cj-hd    1    -0.44115477    0.000  -3.0    SCEE=1.2 SCNB=2
+cm-ck-cj-hd    1    -0.75721275  180.000   4.0    SCEE=1.2 SCNB=2
+cn-ck-cj-hd    1     0.01935782    0.000  -1.0    SCEE=1.2 SCNB=2
+cn-ck-cj-hd    1     3.54483616  180.000  -2.0    SCEE=1.2 SCNB=2
+cn-ck-cj-hd    1     0.16566554    0.000  -3.0    SCEE=1.2 SCNB=2
+cn-ck-cj-hd    1    -0.29867391  180.000   4.0    SCEE=1.2 SCNB=2
+c9-cm-ck-cj    1     0.00343542    0.000  -1.0    SCEE=1.2 SCNB=2
+c9-cm-ck-cj    1     3.61139458  180.000  -2.0    SCEE=1.2 SCNB=2
+c9-cm-ck-cj    1     0.03010825    0.000  -3.0    SCEE=1.2 SCNB=2
+c9-cm-ck-cj    1    -0.05229750  180.000   4.0    SCEE=1.2 SCNB=2
+cj-ck-cm-he    1    -0.05136131    0.000  -1.0    SCEE=1.2 SCNB=2
+cj-ck-cm-he    1     3.42219591  180.000  -2.0    SCEE=1.2 SCNB=2
+cj-ck-cm-he    1    -0.44115477    0.000  -3.0    SCEE=1.2 SCNB=2
+cj-ck-cm-he    1    -0.75721275  180.000   4.0    SCEE=1.2 SCNB=2
+cj-ck-cn-nr    1    -0.58549058    0.000  -1.0    SCEE=1.2 SCNB=2
+cj-ck-cn-nr    1     0.95918130  180.000  -2.0    SCEE=1.2 SCNB=2
+cj-ck-cn-nr    1     0.01436854    0.000  -3.0    SCEE=1.2 SCNB=2
+cj-ck-cn-nr    1    -0.08252804  180.000   4.0    SCEE=1.2 SCNB=2
+cj-ck-cn-nA    1    -0.58549058    0.000  -1.0    SCEE=1.2 SCNB=2
+cj-ck-cn-nA    1     0.95918130  180.000  -2.0    SCEE=1.2 SCNB=2
+cj-ck-cn-nA    1     0.01436854    0.000  -3.0    SCEE=1.2 SCNB=2
+cj-ck-cn-nA    1    -0.08252804  180.000   4.0    SCEE=1.2 SCNB=2
+c9-cm-ck-cn    1     0.00162286    0.000  -1.0    SCEE=1.2 SCNB=2
+c9-cm-ck-cn    1     3.63073553  180.000  -2.0    SCEE=1.2 SCNB=2
+c9-cm-ck-cn    1     0.01354409    0.000  -3.0    SCEE=1.2 SCNB=2
+c9-cm-ck-cn    1     0.02018580  180.000   4.0    SCEE=1.2 SCNB=2
+cn-ck-cm-he    1     0.01935782    0.000  -1.0    SCEE=1.2 SCNB=2
+cn-ck-cm-he    1     3.54483616  180.000  -2.0    SCEE=1.2 SCNB=2
+cn-ck-cm-he    1     0.16566554    0.000  -3.0    SCEE=1.2 SCNB=2
+cn-ck-cm-he    1    -0.29867391  180.000   4.0    SCEE=1.2 SCNB=2
+cm-ck-cn-nr    1    -0.58549058    0.000  -1.0    SCEE=1.2 SCNB=2
+cm-ck-cn-nr    1     0.95918130  180.000  -2.0    SCEE=1.2 SCNB=2
+cm-ck-cn-nr    1     0.01436854    0.000  -3.0    SCEE=1.2 SCNB=2
+cm-ck-cn-nr    1    -0.08252804  180.000   4.0    SCEE=1.2 SCNB=2
+cm-ck-cn-nA    1    -0.58549058    0.000  -1.0    SCEE=1.2 SCNB=2
+cm-ck-cn-nA    1     0.95918130  180.000  -2.0    SCEE=1.2 SCNB=2
+cm-ck-cn-nA    1     0.01436854    0.000  -3.0    SCEE=1.2 SCNB=2
+cm-ck-cn-nA    1    -0.08252804  180.000   4.0    SCEE=1.2 SCNB=2
+ck-cn-nr-co    1     0.00014956    0.000  -1.0    SCEE=1.2 SCNB=2
+ck-cn-nr-co    1     4.79033373  180.000  -2.0    SCEE=1.2 SCNB=2
+ck-cn-nr-co    1     0.00108612    0.000  -3.0    SCEE=1.2 SCNB=2
+ck-cn-nr-co    1    -0.03822265  180.000   4.0    SCEE=1.2 SCNB=2
+cC-nA-cn-ck    1     0.00014956    0.000  -1.0    SCEE=1.2 SCNB=2
+cC-nA-cn-ck    1     4.79033373  180.000  -2.0    SCEE=1.2 SCNB=2
+cC-nA-cn-ck    1     0.00108612    0.000  -3.0    SCEE=1.2 SCNB=2
+cC-nA-cn-ck    1    -0.03822265  180.000   4.0    SCEE=1.2 SCNB=2
+co-nr-cn-nA    1     0.00161633    0.000  -1.0    SCEE=1.2 SCNB=2
+co-nr-cn-nA    1     4.79354413  180.000  -2.0    SCEE=1.2 SCNB=2
+co-nr-cn-nA    1     0.01449043    0.000  -3.0    SCEE=1.2 SCNB=2
+co-nr-cn-nA    1    -0.02567332  180.000   4.0    SCEE=1.2 SCNB=2
+cC-nA-cn-nr    1     0.00161633    0.000  -1.0    SCEE=1.2 SCNB=2
+cC-nA-cn-nr    1     4.79354413  180.000  -2.0    SCEE=1.2 SCNB=2
+cC-nA-cn-nr    1     0.01449043    0.000  -3.0    SCEE=1.2 SCNB=2
+cC-nA-cn-nr    1    -0.02567332  180.000   4.0    SCEE=1.2 SCNB=2
+cn-nr-co-cq    1     0.00025522    0.000  -1.0    SCEE=1.2 SCNB=2
+cn-nr-co-cq    1     3.59897920  180.000  -2.0    SCEE=1.2 SCNB=2
+cn-nr-co-cq    1     0.00229645    0.000  -3.0    SCEE=1.2 SCNB=2
+cn-nr-co-cq    1    -0.00408167  180.000   4.0    SCEE=1.2 SCNB=2
+cn-nr-co-hf    1    -0.00083495    0.000  -1.0    SCEE=1.2 SCNB=2
+cn-nr-co-hf    1     3.59666538  180.000  -2.0    SCEE=1.2 SCNB=2
+cn-nr-co-hf    1    -0.00748354    0.000  -3.0    SCEE=1.2 SCNB=2
+cn-nr-co-hf    1    -0.01325596  180.000   4.0    SCEE=1.2 SCNB=2
+nr-co-cq-o1    1    -0.00111026    0.000  -1.0    SCEE=1.2 SCNB=2
+nr-co-cq-o1    1     3.62048378  180.000  -2.0    SCEE=1.2 SCNB=2
+nr-co-cq-o1    1    -0.01043915    0.000  -3.0    SCEE=1.2 SCNB=2
+nr-co-cq-o1    1    -0.01923396  180.000   4.0    SCEE=1.2 SCNB=2
+cC-cq-co-nr    1     0.01368792    0.000  -1.0    SCEE=1.2 SCNB=2
+cC-cq-co-nr    1     3.55951599  180.000  -2.0    SCEE=1.2 SCNB=2
+cC-cq-co-nr    1     0.12234087    0.000  -3.0    SCEE=1.2 SCNB=2
+cC-cq-co-nr    1    -0.25932525  180.000   4.0    SCEE=1.2 SCNB=2
+hf-co-cq-o1    1     0.07005898    0.000  -1.0    SCEE=1.2 SCNB=2
+hf-co-cq-o1    1     3.37465677  180.000  -2.0    SCEE=1.2 SCNB=2
+hf-co-cq-o1    1     0.45948049    0.000  -3.0    SCEE=1.2 SCNB=2
+hf-co-cq-o1    1    -0.58712546  180.000   4.0    SCEE=1.2 SCNB=2
+cC-cq-co-hf    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cC-cq-co-hf    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cC-cq-co-hf    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cC-cq-co-hf    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+co-cq-o1-cr    1    -0.05598962    0.000  -1.0    SCEE=1.2 SCNB=2
+co-cq-o1-cr    1     1.73678586  180.000  -2.0    SCEE=1.2 SCNB=2
+co-cq-o1-cr    1     0.23220022    0.000  -3.0    SCEE=1.2 SCNB=2
+co-cq-o1-cr    1     0.19327428  180.000   4.0    SCEE=1.2 SCNB=2
+co-cq-cC-nA    1     0.01368792    0.000  -1.0    SCEE=1.2 SCNB=2
+co-cq-cC-nA    1     3.55951599  180.000  -2.0    SCEE=1.2 SCNB=2
+co-cq-cC-nA    1     0.12234087    0.000  -3.0    SCEE=1.2 SCNB=2
+co-cq-cC-nA    1    -0.25932525  180.000   4.0    SCEE=1.2 SCNB=2
+co-cq-cC-hy    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+co-cq-cC-hy    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+co-cq-cC-hy    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+co-cq-cC-hy    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+cC-cq-o1-cr    1    -0.05598962    0.000  -1.0    SCEE=1.2 SCNB=2
+cC-cq-o1-cr    1     1.73678586  180.000  -2.0    SCEE=1.2 SCNB=2
+cC-cq-o1-cr    1     0.23220022    0.000  -3.0    SCEE=1.2 SCNB=2
+cC-cq-o1-cr    1     0.19327428  180.000   4.0    SCEE=1.2 SCNB=2
+nA-cC-cq-o1    1    -0.00111026    0.000  -1.0    SCEE=1.2 SCNB=2
+nA-cC-cq-o1    1     3.62048378  180.000  -2.0    SCEE=1.2 SCNB=2
+nA-cC-cq-o1    1    -0.01043915    0.000  -3.0    SCEE=1.2 SCNB=2
+nA-cC-cq-o1    1    -0.01923396  180.000   4.0    SCEE=1.2 SCNB=2
+hy-cC-cq-o1    1     0.07005898    0.000  -1.0    SCEE=1.2 SCNB=2
+hy-cC-cq-o1    1     3.37465677  180.000  -2.0    SCEE=1.2 SCNB=2
+hy-cC-cq-o1    1     0.45948049    0.000  -3.0    SCEE=1.2 SCNB=2
+hy-cC-cq-o1    1    -0.58712546  180.000   4.0    SCEE=1.2 SCNB=2
+cq-o1-cr-cs    1    -0.02873971    0.000  -1.0    SCEE=1.2 SCNB=2
+cq-o1-cr-cs    1     0.07857088  180.000  -2.0    SCEE=1.2 SCNB=2
+cq-o1-cr-cs    1     0.06082180    0.000  -3.0    SCEE=1.2 SCNB=2
+cq-o1-cr-cs    1    -0.07404881  180.000   4.0    SCEE=1.2 SCNB=2
+cq-o1-cr-hg    1     0.67345735    0.000  -1.0    SCEE=1.2 SCNB=2
+cq-o1-cr-hg    1    -0.16919849  180.000  -2.0    SCEE=1.2 SCNB=2
+cq-o1-cr-hg    1     0.05365893    0.000  -3.0    SCEE=1.2 SCNB=2
+cq-o1-cr-hg    1    -0.09496353  180.000   4.0    SCEE=1.2 SCNB=2
+cq-o1-cr-hh    1     0.67345735    0.000  -1.0    SCEE=1.2 SCNB=2
+cq-o1-cr-hh    1    -0.16919849  180.000  -2.0    SCEE=1.2 SCNB=2
+cq-o1-cr-hh    1     0.05365893    0.000  -3.0    SCEE=1.2 SCNB=2
+cq-o1-cr-hh    1    -0.09496353  180.000   4.0    SCEE=1.2 SCNB=2
+nw-cs-cr-o1    1     0.07583289    0.000  -1.0    SCEE=1.2 SCNB=2
+nw-cs-cr-o1    1    -0.23580546  180.000  -2.0    SCEE=1.2 SCNB=2
+nw-cs-cr-o1    1     0.14783159    0.000  -3.0    SCEE=1.2 SCNB=2
+nw-cs-cr-o1    1     0.43190296  180.000   4.0    SCEE=1.2 SCNB=2
+hi-cs-cr-o1    1     0.38179206    0.000  -1.0    SCEE=1.2 SCNB=2
+hi-cs-cr-o1    1    -0.05637158  180.000  -2.0    SCEE=1.2 SCNB=2
+hi-cs-cr-o1    1    -0.08730320    0.000  -3.0    SCEE=1.2 SCNB=2
+hi-cs-cr-o1    1    -0.05460372  180.000   4.0    SCEE=1.2 SCNB=2
+hj-cs-cr-o1    1     0.38179206    0.000  -1.0    SCEE=1.2 SCNB=2
+hj-cs-cr-o1    1    -0.05637158  180.000  -2.0    SCEE=1.2 SCNB=2
+hj-cs-cr-o1    1    -0.08730320    0.000  -3.0    SCEE=1.2 SCNB=2
+hj-cs-cr-o1    1    -0.05460372  180.000   4.0    SCEE=1.2 SCNB=2
+hg-cr-cs-nw    1     0.47566931    0.000  -1.0    SCEE=1.2 SCNB=2
+hg-cr-cs-nw    1    -0.04974975  180.000  -2.0    SCEE=1.2 SCNB=2
+hg-cr-cs-nw    1     0.02983726    0.000  -3.0    SCEE=1.2 SCNB=2
+hg-cr-cs-nw    1     0.18844149  180.000   4.0    SCEE=1.2 SCNB=2
+hg-cr-cs-hi    1    -0.15224681    0.000  -1.0    SCEE=1.2 SCNB=2
+hg-cr-cs-hi    1     0.14898375  180.000  -2.0    SCEE=1.2 SCNB=2
+hg-cr-cs-hi    1     0.30948476    0.000  -3.0    SCEE=1.2 SCNB=2
+hg-cr-cs-hi    1    -0.19242510  180.000   4.0    SCEE=1.2 SCNB=2
+hg-cr-cs-hj    1    -0.15224681    0.000  -1.0    SCEE=1.2 SCNB=2
+hg-cr-cs-hj    1     0.14898375  180.000  -2.0    SCEE=1.2 SCNB=2
+hg-cr-cs-hj    1     0.30948476    0.000  -3.0    SCEE=1.2 SCNB=2
+hg-cr-cs-hj    1    -0.19242510  180.000   4.0    SCEE=1.2 SCNB=2
+hh-cr-cs-nw    1     0.47566931    0.000  -1.0    SCEE=1.2 SCNB=2
+hh-cr-cs-nw    1    -0.04974975  180.000  -2.0    SCEE=1.2 SCNB=2
+hh-cr-cs-nw    1     0.02983726    0.000  -3.0    SCEE=1.2 SCNB=2
+hh-cr-cs-nw    1     0.18844149  180.000   4.0    SCEE=1.2 SCNB=2
+hh-cr-cs-hi    1    -0.15224681    0.000  -1.0    SCEE=1.2 SCNB=2
+hh-cr-cs-hi    1     0.14898375  180.000  -2.0    SCEE=1.2 SCNB=2
+hh-cr-cs-hi    1     0.30948476    0.000  -3.0    SCEE=1.2 SCNB=2
+hh-cr-cs-hi    1    -0.19242510  180.000   4.0    SCEE=1.2 SCNB=2
+hh-cr-cs-hj    1    -0.15224681    0.000  -1.0    SCEE=1.2 SCNB=2
+hh-cr-cs-hj    1     0.14898375  180.000  -2.0    SCEE=1.2 SCNB=2
+hh-cr-cs-hj    1     0.30948476    0.000  -3.0    SCEE=1.2 SCNB=2
+hh-cr-cs-hj    1    -0.19242510  180.000   4.0    SCEE=1.2 SCNB=2
+cr-cs-nw-ct    1     0.36278603    0.000  -1.0    SCEE=1.2 SCNB=2
+cr-cs-nw-ct    1     0.00028005  180.000  -2.0    SCEE=1.2 SCNB=2
+cr-cs-nw-ct    1     0.16147588    0.000  -3.0    SCEE=1.2 SCNB=2
+cr-cs-nw-ct    1    -0.06191512  180.000   4.0    SCEE=1.2 SCNB=2
+cB-nw-cs-cr    1     0.36278603    0.000  -1.0    SCEE=1.2 SCNB=2
+cB-nw-cs-cr    1     0.00028005  180.000  -2.0    SCEE=1.2 SCNB=2
+cB-nw-cs-cr    1     0.16147588    0.000  -3.0    SCEE=1.2 SCNB=2
+cB-nw-cs-cr    1    -0.06191512  180.000   4.0    SCEE=1.2 SCNB=2
+ct-nw-cs-hi    1    -0.16488276    0.000  -1.0    SCEE=1.2 SCNB=2
+ct-nw-cs-hi    1    -0.12607799  180.000  -2.0    SCEE=1.2 SCNB=2
+ct-nw-cs-hi    1     0.21209938    0.000  -3.0    SCEE=1.2 SCNB=2
+ct-nw-cs-hi    1    -0.03090511  180.000   4.0    SCEE=1.2 SCNB=2
+cB-nw-cs-hi    1    -0.16488276    0.000  -1.0    SCEE=1.2 SCNB=2
+cB-nw-cs-hi    1    -0.12607799  180.000  -2.0    SCEE=1.2 SCNB=2
+cB-nw-cs-hi    1     0.21209938    0.000  -3.0    SCEE=1.2 SCNB=2
+cB-nw-cs-hi    1    -0.03090511  180.000   4.0    SCEE=1.2 SCNB=2
+ct-nw-cs-hj    1    -0.16488276    0.000  -1.0    SCEE=1.2 SCNB=2
+ct-nw-cs-hj    1    -0.12607799  180.000  -2.0    SCEE=1.2 SCNB=2
+ct-nw-cs-hj    1     0.21209938    0.000  -3.0    SCEE=1.2 SCNB=2
+ct-nw-cs-hj    1    -0.03090511  180.000   4.0    SCEE=1.2 SCNB=2
+cB-nw-cs-hj    1    -0.16488276    0.000  -1.0    SCEE=1.2 SCNB=2
+cB-nw-cs-hj    1    -0.12607799  180.000  -2.0    SCEE=1.2 SCNB=2
+cB-nw-cs-hj    1     0.21209938    0.000  -3.0    SCEE=1.2 SCNB=2
+cB-nw-cs-hj    1    -0.03090511  180.000   4.0    SCEE=1.2 SCNB=2
+cs-nw-ct-cw    1     0.02252510    0.000  -1.0    SCEE=1.2 SCNB=2
+cs-nw-ct-cw    1     0.59726162  180.000  -2.0    SCEE=1.2 SCNB=2
+cs-nw-ct-cw    1     0.42804383    0.000  -3.0    SCEE=1.2 SCNB=2
+cs-nw-ct-cw    1    -0.08510497  180.000   4.0    SCEE=1.2 SCNB=2
+cs-nw-ct-hk    1     0.03592032    0.000  -1.0    SCEE=1.2 SCNB=2
+cs-nw-ct-hk    1     0.23538249  180.000  -2.0    SCEE=1.2 SCNB=2
+cs-nw-ct-hk    1    -0.09174372    0.000  -3.0    SCEE=1.2 SCNB=2
+cs-nw-ct-hk    1    -0.29041581  180.000   4.0    SCEE=1.2 SCNB=2
+cs-nw-ct-hl    1     0.03592032    0.000  -1.0    SCEE=1.2 SCNB=2
+cs-nw-ct-hl    1     0.23538249  180.000  -2.0    SCEE=1.2 SCNB=2
+cs-nw-ct-hl    1    -0.09174372    0.000  -3.0    SCEE=1.2 SCNB=2
+cs-nw-ct-hl    1    -0.29041581  180.000   4.0    SCEE=1.2 SCNB=2
+cA-cB-nw-cs    1     0.02252510    0.000  -1.0    SCEE=1.2 SCNB=2
+cA-cB-nw-cs    1     0.59726162  180.000  -2.0    SCEE=1.2 SCNB=2
+cA-cB-nw-cs    1     0.42804383    0.000  -3.0    SCEE=1.2 SCNB=2
+cA-cB-nw-cs    1    -0.08510497  180.000   4.0    SCEE=1.2 SCNB=2
+cs-nw-cB-hu    1     0.03592032    0.000  -1.0    SCEE=1.2 SCNB=2
+cs-nw-cB-hu    1     0.23538249  180.000  -2.0    SCEE=1.2 SCNB=2
+cs-nw-cB-hu    1    -0.09174372    0.000  -3.0    SCEE=1.2 SCNB=2
+cs-nw-cB-hu    1    -0.29041581  180.000   4.0    SCEE=1.2 SCNB=2
+cs-nw-cB-hv    1     0.03592032    0.000  -1.0    SCEE=1.2 SCNB=2
+cs-nw-cB-hv    1     0.23538249  180.000  -2.0    SCEE=1.2 SCNB=2
+cs-nw-cB-hv    1    -0.09174372    0.000  -3.0    SCEE=1.2 SCNB=2
+cs-nw-cB-hv    1    -0.29041581  180.000   4.0    SCEE=1.2 SCNB=2
+cB-nw-ct-cw    1     0.12094892    0.000  -1.0    SCEE=1.2 SCNB=2
+cB-nw-ct-cw    1    -0.01210067  180.000  -2.0    SCEE=1.2 SCNB=2
+cB-nw-ct-cw    1     0.32511516    0.000  -3.0    SCEE=1.2 SCNB=2
+cB-nw-ct-cw    1     0.12979299  180.000   4.0    SCEE=1.2 SCNB=2
+cB-nw-ct-hk    1     0.04278900    0.000  -1.0    SCEE=1.2 SCNB=2
+cB-nw-ct-hk    1     0.17331124  180.000  -2.0    SCEE=1.2 SCNB=2
+cB-nw-ct-hk    1     0.47322677    0.000  -3.0    SCEE=1.2 SCNB=2
+cB-nw-ct-hk    1     0.01113869  180.000   4.0    SCEE=1.2 SCNB=2
+cB-nw-ct-hl    1     0.04278900    0.000  -1.0    SCEE=1.2 SCNB=2
+cB-nw-ct-hl    1     0.17331124  180.000  -2.0    SCEE=1.2 SCNB=2
+cB-nw-ct-hl    1     0.47322677    0.000  -3.0    SCEE=1.2 SCNB=2
+cB-nw-ct-hl    1     0.01113869  180.000   4.0    SCEE=1.2 SCNB=2
+cA-cB-nw-ct    1     0.12094892    0.000  -1.0    SCEE=1.2 SCNB=2
+cA-cB-nw-ct    1    -0.01210067  180.000  -2.0    SCEE=1.2 SCNB=2
+cA-cB-nw-ct    1     0.32511516    0.000  -3.0    SCEE=1.2 SCNB=2
+cA-cB-nw-ct    1     0.12979299  180.000   4.0    SCEE=1.2 SCNB=2
+ct-nw-cB-hu    1     0.04278900    0.000  -1.0    SCEE=1.2 SCNB=2
+ct-nw-cB-hu    1     0.17331124  180.000  -2.0    SCEE=1.2 SCNB=2
+ct-nw-cB-hu    1     0.47322677    0.000  -3.0    SCEE=1.2 SCNB=2
+ct-nw-cB-hu    1     0.01113869  180.000   4.0    SCEE=1.2 SCNB=2
+ct-nw-cB-hv    1     0.04278900    0.000  -1.0    SCEE=1.2 SCNB=2
+ct-nw-cB-hv    1     0.17331124  180.000  -2.0    SCEE=1.2 SCNB=2
+ct-nw-cB-hv    1     0.47322677    0.000  -3.0    SCEE=1.2 SCNB=2
+ct-nw-cB-hv    1     0.01113869  180.000   4.0    SCEE=1.2 SCNB=2
+nw-ct-cw-o2    1     0.01610000    0.000  -1.0    SCEE=1.2 SCNB=2
+nw-ct-cw-o2    1     0.02760000  180.000  -2.0    SCEE=1.2 SCNB=2
+nw-ct-cw-o2    1     0.15640000    0.000  -3.0    SCEE=1.2 SCNB=2
+nw-ct-cw-o2    1     0.00000000  180.000   4.0    SCEE=1.2 SCNB=2
+hm-cw-ct-nw    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hm-cw-ct-nw    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hm-cw-ct-nw    1     0.15555556    0.000  -3.0    SCEE=1.2 SCNB=2
+hm-cw-ct-nw    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+hq-cw-ct-nw    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hq-cw-ct-nw    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hq-cw-ct-nw    1     0.15555556    0.000  -3.0    SCEE=1.2 SCNB=2
+hq-cw-ct-nw    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+hk-ct-cw-o2    1     0.01610000    0.000  -1.0    SCEE=1.2 SCNB=2
+hk-ct-cw-o2    1     0.02760000  180.000  -2.0    SCEE=1.2 SCNB=2
+hk-ct-cw-o2    1     0.15640000    0.000  -3.0    SCEE=1.2 SCNB=2
+hk-ct-cw-o2    1     0.00000000  180.000   4.0    SCEE=1.2 SCNB=2
+hk-ct-cw-hm    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hk-ct-cw-hm    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hk-ct-cw-hm    1     0.15000000    0.000  -3.0    SCEE=1.2 SCNB=2
+hk-ct-cw-hm    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+hk-ct-cw-hq    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hk-ct-cw-hq    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hk-ct-cw-hq    1     0.15000000    0.000  -3.0    SCEE=1.2 SCNB=2
+hk-ct-cw-hq    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+hl-ct-cw-o2    1     0.01610000    0.000  -1.0    SCEE=1.2 SCNB=2
+hl-ct-cw-o2    1     0.02760000  180.000  -2.0    SCEE=1.2 SCNB=2
+hl-ct-cw-o2    1     0.15640000    0.000  -3.0    SCEE=1.2 SCNB=2
+hl-ct-cw-o2    1     0.00000000  180.000   4.0    SCEE=1.2 SCNB=2
+hl-ct-cw-hm    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hl-ct-cw-hm    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hl-ct-cw-hm    1     0.15000000    0.000  -3.0    SCEE=1.2 SCNB=2
+hl-ct-cw-hm    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+hl-ct-cw-hq    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hl-ct-cw-hq    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hl-ct-cw-hq    1     0.15000000    0.000  -3.0    SCEE=1.2 SCNB=2
+hl-ct-cw-hq    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+cA-o2-cw-ct    1    -0.02569735    0.000  -1.0    SCEE=1.2 SCNB=2
+cA-o2-cw-ct    1     0.42540099  180.000  -2.0    SCEE=1.2 SCNB=2
+cA-o2-cw-ct    1     0.20137516    0.000  -3.0    SCEE=1.2 SCNB=2
+cA-o2-cw-ct    1    -0.28735453  180.000   4.0    SCEE=1.2 SCNB=2
+cA-o2-cw-hm    1     0.90418990    0.000  -1.0    SCEE=1.2 SCNB=2
+cA-o2-cw-hm    1     0.01324461  180.000  -2.0    SCEE=1.2 SCNB=2
+cA-o2-cw-hm    1     0.44039865    0.000  -3.0    SCEE=1.2 SCNB=2
+cA-o2-cw-hm    1    -0.19156085  180.000   4.0    SCEE=1.2 SCNB=2
+cA-o2-cw-hq    1     0.90418990    0.000  -1.0    SCEE=1.2 SCNB=2
+cA-o2-cw-hq    1     0.01324461  180.000  -2.0    SCEE=1.2 SCNB=2
+cA-o2-cw-hq    1     0.44039865    0.000  -3.0    SCEE=1.2 SCNB=2
+cA-o2-cw-hq    1    -0.19156085  180.000   4.0    SCEE=1.2 SCNB=2
+cB-cA-o2-cw    1    -0.02569735    0.000  -1.0    SCEE=1.2 SCNB=2
+cB-cA-o2-cw    1     0.42540099  180.000  -2.0    SCEE=1.2 SCNB=2
+cB-cA-o2-cw    1     0.20137516    0.000  -3.0    SCEE=1.2 SCNB=2
+cB-cA-o2-cw    1    -0.28735453  180.000   4.0    SCEE=1.2 SCNB=2
+cw-o2-cA-hr    1     0.90418990    0.000  -1.0    SCEE=1.2 SCNB=2
+cw-o2-cA-hr    1     0.01324461  180.000  -2.0    SCEE=1.2 SCNB=2
+cw-o2-cA-hr    1     0.44039865    0.000  -3.0    SCEE=1.2 SCNB=2
+cw-o2-cA-hr    1    -0.19156085  180.000   4.0    SCEE=1.2 SCNB=2
+cw-o2-cA-ht    1     0.90418990    0.000  -1.0    SCEE=1.2 SCNB=2
+cw-o2-cA-ht    1     0.01324461  180.000  -2.0    SCEE=1.2 SCNB=2
+cw-o2-cA-ht    1     0.44039865    0.000  -3.0    SCEE=1.2 SCNB=2
+cw-o2-cA-ht    1    -0.19156085  180.000   4.0    SCEE=1.2 SCNB=2
+nw-cB-cA-o2    1     0.01610000    0.000  -1.0    SCEE=1.2 SCNB=2
+nw-cB-cA-o2    1     0.02760000  180.000  -2.0    SCEE=1.2 SCNB=2
+nw-cB-cA-o2    1     0.15640000    0.000  -3.0    SCEE=1.2 SCNB=2
+nw-cB-cA-o2    1     0.00000000  180.000   4.0    SCEE=1.2 SCNB=2
+hu-cB-cA-o2    1     0.01610000    0.000  -1.0    SCEE=1.2 SCNB=2
+hu-cB-cA-o2    1     0.02760000  180.000  -2.0    SCEE=1.2 SCNB=2
+hu-cB-cA-o2    1     0.15640000    0.000  -3.0    SCEE=1.2 SCNB=2
+hu-cB-cA-o2    1     0.00000000  180.000   4.0    SCEE=1.2 SCNB=2
+hv-cB-cA-o2    1     0.01610000    0.000  -1.0    SCEE=1.2 SCNB=2
+hv-cB-cA-o2    1     0.02760000  180.000  -2.0    SCEE=1.2 SCNB=2
+hv-cB-cA-o2    1     0.15640000    0.000  -3.0    SCEE=1.2 SCNB=2
+hv-cB-cA-o2    1     0.00000000  180.000   4.0    SCEE=1.2 SCNB=2
+hr-cA-cB-nw    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hr-cA-cB-nw    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hr-cA-cB-nw    1     0.15555556    0.000  -3.0    SCEE=1.2 SCNB=2
+hr-cA-cB-nw    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+hr-cA-cB-hu    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hr-cA-cB-hu    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hr-cA-cB-hu    1     0.15000000    0.000  -3.0    SCEE=1.2 SCNB=2
+hr-cA-cB-hu    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+hr-cA-cB-hv    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+hr-cA-cB-hv    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+hr-cA-cB-hv    1     0.15000000    0.000  -3.0    SCEE=1.2 SCNB=2
+hr-cA-cB-hv    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+ht-cA-cB-nw    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+ht-cA-cB-nw    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+ht-cA-cB-nw    1     0.15555556    0.000  -3.0    SCEE=1.2 SCNB=2
+ht-cA-cB-nw    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+ht-cA-cB-hu    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+ht-cA-cB-hu    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+ht-cA-cB-hu    1     0.15000000    0.000  -3.0    SCEE=1.2 SCNB=2
+ht-cA-cB-hu    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+ht-cA-cB-hv    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+ht-cA-cB-hv    1     0.00000000    0.000  -2.0    SCEE=1.2 SCNB=2
+ht-cA-cB-hv    1     0.15000000    0.000  -3.0    SCEE=1.2 SCNB=2
+ht-cA-cB-hv    1     0.00000000    0.000   4.0    SCEE=1.2 SCNB=2
+cn-nA-cC-cq    1     0.00025522    0.000  -1.0    SCEE=1.2 SCNB=2
+cn-nA-cC-cq    1     3.59897920  180.000  -2.0    SCEE=1.2 SCNB=2
+cn-nA-cC-cq    1     0.00229645    0.000  -3.0    SCEE=1.2 SCNB=2
+cn-nA-cC-cq    1    -0.00408167  180.000   4.0    SCEE=1.2 SCNB=2
+cn-nA-cC-hy    1    -0.00083495    0.000  -1.0    SCEE=1.2 SCNB=2
+cn-nA-cC-hy    1     3.59666538  180.000  -2.0    SCEE=1.2 SCNB=2
+cn-nA-cC-hy    1    -0.00748354    0.000  -3.0    SCEE=1.2 SCNB=2
+cn-nA-cC-hy    1    -0.01325596  180.000   4.0    SCEE=1.2 SCNB=2
+c7-cD-cE-cF    1    -0.00237897    0.000  -1.0    SCEE=1.2 SCNB=2
+c7-cD-cE-cF    1     3.61552964  180.000  -2.0    SCEE=1.2 SCNB=2
+c7-cD-cE-cF    1    -0.02113926    0.000  -3.0    SCEE=1.2 SCNB=2
+c7-cD-cE-cF    1    -0.03716621  180.000   4.0    SCEE=1.2 SCNB=2
+c7-cD-cE-hz    1     0.00405633    0.000  -1.0    SCEE=1.2 SCNB=2
+c7-cD-cE-hz    1     3.60901583  180.000  -2.0    SCEE=1.2 SCNB=2
+c7-cD-cE-hz    1     0.03507866    0.000  -3.0    SCEE=1.2 SCNB=2
+c7-cD-cE-hz    1    -0.06022518  180.000   4.0    SCEE=1.2 SCNB=2
+c7-cD-cI-cH    1     0.00003959    0.000  -1.0    SCEE=1.2 SCNB=2
+c7-cD-cI-cH    1     3.62213788  180.000  -2.0    SCEE=1.2 SCNB=2
+c7-cD-cI-cH    1     0.00031229    0.000  -3.0    SCEE=1.2 SCNB=2
+c7-cD-cI-cH    1    -0.01113544  180.000   4.0    SCEE=1.2 SCNB=2
+c7-cD-cI-hC    1     0.00405633    0.000  -1.0    SCEE=1.2 SCNB=2
+c7-cD-cI-hC    1     3.60901583  180.000  -2.0    SCEE=1.2 SCNB=2
+c7-cD-cI-hC    1     0.03507866    0.000  -3.0    SCEE=1.2 SCNB=2
+c7-cD-cI-hC    1    -0.06022518  180.000   4.0    SCEE=1.2 SCNB=2
+cF-cE-cD-cI    1     0.04657748    0.000  -1.0    SCEE=1.2 SCNB=2
+cF-cE-cD-cI    1     3.43950968  180.000  -2.0    SCEE=1.2 SCNB=2
+cF-cE-cD-cI    1     0.40896742    0.000  -3.0    SCEE=1.2 SCNB=2
+cF-cE-cD-cI    1    -0.71528160  180.000   4.0    SCEE=1.2 SCNB=2
+cI-cD-cE-hz    1    -0.05136131    0.000  -1.0    SCEE=1.2 SCNB=2
+cI-cD-cE-hz    1     3.42219591  180.000  -2.0    SCEE=1.2 SCNB=2
+cI-cD-cE-hz    1    -0.44115477    0.000  -3.0    SCEE=1.2 SCNB=2
+cI-cD-cE-hz    1    -0.75721275  180.000   4.0    SCEE=1.2 SCNB=2
+cE-cD-cI-cH    1     0.00343542    0.000  -1.0    SCEE=1.2 SCNB=2
+cE-cD-cI-cH    1     3.61139458  180.000  -2.0    SCEE=1.2 SCNB=2
+cE-cD-cI-cH    1     0.03010825    0.000  -3.0    SCEE=1.2 SCNB=2
+cE-cD-cI-cH    1    -0.05229750  180.000   4.0    SCEE=1.2 SCNB=2
+cE-cD-cI-hC    1    -0.05136131    0.000  -1.0    SCEE=1.2 SCNB=2
+cE-cD-cI-hC    1     3.42219591  180.000  -2.0    SCEE=1.2 SCNB=2
+cE-cD-cI-hC    1    -0.44115477    0.000  -3.0    SCEE=1.2 SCNB=2
+cE-cD-cI-hC    1    -0.75721275  180.000   4.0    SCEE=1.2 SCNB=2
+cD-cE-cF-cG    1     0.01304760    0.000  -1.0    SCEE=1.2 SCNB=2
+cD-cE-cF-cG    1     3.57302050  180.000  -2.0    SCEE=1.2 SCNB=2
+cD-cE-cF-cG    1     0.11616909    0.000  -3.0    SCEE=1.2 SCNB=2
+cD-cE-cF-cG    1    -0.20459175  180.000   4.0    SCEE=1.2 SCNB=2
+cD-cE-cF-hA    1    -0.00807272    0.000  -1.0    SCEE=1.2 SCNB=2
+cD-cE-cF-hA    1     3.57474905  180.000  -2.0    SCEE=1.2 SCNB=2
+cD-cE-cF-hA    1    -0.07247341    0.000  -3.0    SCEE=1.2 SCNB=2
+cD-cE-cF-hA    1    -0.19928780  180.000   4.0    SCEE=1.2 SCNB=2
+cG-cF-cE-hz    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cG-cF-cE-hz    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cG-cF-cE-hz    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cG-cF-cE-hz    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+hA-cF-cE-hz    1     0.03818398    0.000  -1.0    SCEE=1.2 SCNB=2
+hA-cF-cE-hz    1     3.47733068  180.000  -2.0    SCEE=1.2 SCNB=2
+hA-cF-cE-hz    1     0.31370508    0.000  -3.0    SCEE=1.2 SCNB=2
+hA-cF-cE-hz    1    -0.51315648  180.000   4.0    SCEE=1.2 SCNB=2
+cE-cF-cG-cH    1     0.01444054    0.000  -1.0    SCEE=1.2 SCNB=2
+cE-cF-cG-cH    1     3.56795541  180.000  -2.0    SCEE=1.2 SCNB=2
+cE-cF-cG-cH    1     0.12569034    0.000  -3.0    SCEE=1.2 SCNB=2
+cE-cF-cG-cH    1    -0.21694286  180.000   4.0    SCEE=1.2 SCNB=2
+cE-cF-cG-hB    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cE-cF-cG-hB    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cE-cF-cG-hB    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cE-cF-cG-hB    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+cH-cG-cF-hA    1    -0.02453102    0.000  -1.0    SCEE=1.2 SCNB=2
+cH-cG-cF-hA    1     3.50922248  180.000  -2.0    SCEE=1.2 SCNB=2
+cH-cG-cF-hA    1    -0.21874987    0.000  -3.0    SCEE=1.2 SCNB=2
+cH-cG-cF-hA    1    -0.45642585  180.000   4.0    SCEE=1.2 SCNB=2
+hA-cF-cG-hB    1     0.03818398    0.000  -1.0    SCEE=1.2 SCNB=2
+hA-cF-cG-hB    1     3.47733068  180.000  -2.0    SCEE=1.2 SCNB=2
+hA-cF-cG-hB    1     0.31370508    0.000  -3.0    SCEE=1.2 SCNB=2
+hA-cF-cG-hB    1    -0.51315648  180.000   4.0    SCEE=1.2 SCNB=2
+cF-cG-cH-cI    1    -0.01934535    0.000  -1.0    SCEE=1.2 SCNB=2
+cF-cG-cH-cI    1     3.70502611  180.000  -2.0    SCEE=1.2 SCNB=2
+cF-cG-cH-cI    1    -0.18978539    0.000  -3.0    SCEE=1.2 SCNB=2
+cF-cG-cH-cI    1     0.36090598  180.000   4.0    SCEE=1.2 SCNB=2
+cF-cG-cH-cJ    1    -0.00356118    0.000  -1.0    SCEE=1.2 SCNB=2
+cF-cG-cH-cJ    1     3.61093007  180.000  -2.0    SCEE=1.2 SCNB=2
+cF-cG-cH-cJ    1    -0.03101305    0.000  -3.0    SCEE=1.2 SCNB=2
+cF-cG-cH-cJ    1    -0.05357163  180.000   4.0    SCEE=1.2 SCNB=2
+cI-cH-cG-hB    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cI-cH-cG-hB    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cI-cH-cG-hB    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cI-cH-cG-hB    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+cJ-cH-cG-hB    1     0.00066107    0.000  -1.0    SCEE=1.2 SCNB=2
+cJ-cH-cG-hB    1     3.62236756  180.000  -2.0    SCEE=1.2 SCNB=2
+cJ-cH-cG-hB    1     0.00587891    0.000  -3.0    SCEE=1.2 SCNB=2
+cJ-cH-cG-hB    1    -0.01034296  180.000   4.0    SCEE=1.2 SCNB=2
+cD-cI-cH-cG    1     0.01304760    0.000  -1.0    SCEE=1.2 SCNB=2
+cD-cI-cH-cG    1     3.57302050  180.000  -2.0    SCEE=1.2 SCNB=2
+cD-cI-cH-cG    1     0.11616909    0.000  -3.0    SCEE=1.2 SCNB=2
+cD-cI-cH-cG    1    -0.20459175  180.000   4.0    SCEE=1.2 SCNB=2
+cG-cH-cI-hC    1    -0.08968435    0.000  -1.0    SCEE=1.2 SCNB=2
+cG-cH-cI-hC    1     3.31860684  180.000  -2.0    SCEE=1.2 SCNB=2
+cG-cH-cI-hC    1    -0.50532552    0.000  -3.0    SCEE=1.2 SCNB=2
+cG-cH-cI-hC    1    -0.48268801  180.000   4.0    SCEE=1.2 SCNB=2
+cG-cH-cJ-nB    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+cG-cH-cJ-nB    1     0.00000000  180.000  -2.0    SCEE=1.2 SCNB=2
+cG-cH-cJ-nB    1     0.00000000    0.000  -3.0    SCEE=1.2 SCNB=2
+cG-cH-cJ-nB    1     0.00000000  180.000   4.0    SCEE=1.2 SCNB=2
+cD-cI-cH-cJ    1     0.00000221    0.000  -1.0    SCEE=1.2 SCNB=2
+cD-cI-cH-cJ    1     3.62500889  180.000  -2.0    SCEE=1.2 SCNB=2
+cD-cI-cH-cJ    1     0.00002016    0.000  -3.0    SCEE=1.2 SCNB=2
+cD-cI-cH-cJ    1     0.00003625  180.000   4.0    SCEE=1.2 SCNB=2
+cJ-cH-cI-hC    1     0.00066107    0.000  -1.0    SCEE=1.2 SCNB=2
+cJ-cH-cI-hC    1     3.62236756  180.000  -2.0    SCEE=1.2 SCNB=2
+cJ-cH-cI-hC    1     0.00587891    0.000  -3.0    SCEE=1.2 SCNB=2
+cJ-cH-cI-hC    1    -0.01034296  180.000   4.0    SCEE=1.2 SCNB=2
+cI-cH-cJ-nB    1     0.00000000    0.000  -1.0    SCEE=1.2 SCNB=2
+cI-cH-cJ-nB    1     0.00000000  180.000  -2.0    SCEE=1.2 SCNB=2
+cI-cH-cJ-nB    1     0.00000000    0.000  -3.0    SCEE=1.2 SCNB=2
+cI-cH-cJ-nB    1     0.00000000  180.000   4.0    SCEE=1.2 SCNB=2
+
+IMPROPER
+c5-ng-c4-o0    10.46699828  180.000   2.0
+c4-c6-c5-h0     1.09516545  180.000   2.0
+c5-c7-c6-h6     1.10013855  180.000   2.0
+c6-cD-c7-n0     1.10000020  180.000   2.0
+c4-c8-ng-n0     1.16242319  180.000   2.0
+c8-cb-c9-cm     1.10293633  180.000   2.0
+c9-ci-cb-h9     1.09620785  180.000   2.0
+cb-cj-ci-hb     1.09620785  180.000   2.0
+ci-ck-cj-hd     1.09620785  180.000   2.0
+cj-cm-ck-cn     1.09999466  180.000   2.0
+c9-ck-cm-he     1.09620785  180.000   2.0
+ck-nA-cn-nr     1.09987756  180.000   2.0
+cq-hf-co-nr     1.10065614  180.000   2.0
+cC-co-cq-o1     1.10020275  180.000   2.0
+cq-hy-cC-nA     1.10065614  180.000   2.0
+c7-cE-cD-cI     1.09313879  180.000   2.0
+cD-cF-cE-hz     1.09620785  180.000   2.0
+cE-cG-cF-hA     1.09620785  180.000   2.0
+cF-cH-cG-hB     1.09620785  180.000   2.0
+cG-cI-cH-cJ     1.09999987  180.000   2.0
+cD-cH-cI-hC     1.09620785  180.000   2.0
+
+NONB
+o0    1.66120000   0.21000000
+c4    1.90800000   0.08600000
+c5    1.90800000   0.08600000
+c6    1.90800000   0.08600000
+c7    1.90800000   0.08600000
+n0    1.82400000   0.17000000
+ng    1.82400000   0.17000000
+c8    1.90800000   0.10940000
+c9    1.90800000   0.08600000
+cb    1.90800000   0.08600000
+ci    1.90800000   0.08600000
+cj    1.90800000   0.08600000
+ck    1.90800000   0.08600000
+cm    1.90800000   0.08600000
+cn    1.90800000   0.08600000
+nr    1.82400000   0.17000000
+co    1.90800000   0.08600000
+cq    1.90800000   0.08600000
+o1    1.68370000   0.17000000
+cr    1.90800000   0.10940000
+cs    1.90800000   0.10940000
+nw    1.82400000   0.17000000
+ct    1.90800000   0.10940000
+cw    1.90800000   0.10940000
+o2    1.68370000   0.17000000
+cA    1.90800000   0.10940000
+cB    1.90800000   0.10940000
+cC    1.90800000   0.08600000
+nA    1.82400000   0.17000000
+cD    1.90800000   0.08600000
+cE    1.90800000   0.08600000
+cF    1.90800000   0.08600000
+cG    1.90800000   0.08600000
+cH    1.90800000   0.08600000
+cI    1.90800000   0.08600000
+cJ    1.90800000   0.21000000
+nB    1.82400000   0.17000000
+h0    1.45900000   0.01500000
+h6    1.45900000   0.01500000
+h7    1.38700000   0.01570000
+h8    1.38700000   0.01570000
+h9    1.45900000   0.01500000
+hb    1.45900000   0.01500000
+hd    1.45900000   0.01500000
+he    1.45900000   0.01500000
+hf    1.40900000   0.01500000
+hg    1.38700000   0.01570000
+hh    1.38700000   0.01570000
+hi    1.38700000   0.01570000
+hj    1.38700000   0.01570000
+hk    1.38700000   0.01570000
+hl    1.38700000   0.01570000
+hm    1.38700000   0.01570000
+hq    1.38700000   0.01570000
+hr    1.38700000   0.01570000
+ht    1.38700000   0.01570000
+hu    1.38700000   0.01570000
+hv    1.38700000   0.01570000
+hy    1.40900000   0.01500000
+hz    1.45900000   0.01500000
+hA    1.45900000   0.01500000
+hB    1.45900000   0.01500000
+hC    1.45900000   0.01500000
+

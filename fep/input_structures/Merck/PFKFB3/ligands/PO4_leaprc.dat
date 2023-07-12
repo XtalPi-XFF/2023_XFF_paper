@@ -1,0 +1,7 @@
+addAtomTypes {
+    {"p0"  "P"  "spd"}
+    {"o0"  "O"  "sp2"}
+    {"o1"  "O"  "sp3"}
+    {"o2"  "O"  "sp3"}
+    {"o3"  "O"  "sp3"}
+}
