@@ -1,0 +1,58 @@
+equil_npt_TI
+ &cntrl
+   imin = 0,
+   nstlim = 208,
+   dt = 0.004,
+   irest = 1,
+   ntx = 5,
+   ntxo = 1,
+   ioutfm = 1,
+   iwrap = 0,
+   ntt = 3,
+   temp0 = 298.15,
+   tautp = 1.0,
+   ig = -1,
+   ntp = 1,
+   ntb = 2,
+   barostat = 2,
+   pres0 = 1.01325,
+   taup = 2.0,
+   ntc = 2,
+   ntf = 1,
+   ntpr = 208,
+   ntwx = 12500,
+   ntwe = 12500,
+   ntwv = 0,
+   ntwf = 0,
+   ntr = 0,
+   restraint_wt = 0,
+   restraintmask = "",
+   gamma_ln = 2.0,
+   ntwr = 62500,
+   ntave = 62500,
+   tishake = 1,
+   timask1 = ":1",
+   timask2 = ":2",
+   gti_add_sc = 3,
+   icfe = 1,
+   ifsc = 1,
+   scalpha = 0.2,
+   scbeta = 50.0,
+   ifmbar = 1,
+   mbar_states = 16,
+   mbar_lambda = 0.0 0.01 0.02 0.0479 0.1151 0.2063 0.3161 0.4374 0.5626 0.6839 0.7937 0.8849 0.9521 0.98 0.99 1.0,
+   bar_intervall = 208,
+   crgmask = "",
+   scmask1 = ":1@44-60",
+   scmask2 = ":2@104-109",
+   numexchg = 30000,
+   gremd_acyc = 1,
+   clambda = 0.0,
+ /
+
+ &ewald
+ /
+
+ &wt type = 'END'
+ /
+
