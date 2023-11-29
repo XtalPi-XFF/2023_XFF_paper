@@ -12,3 +12,5 @@ Bai et al. "Development and Comprehensive Benchmark of a High Quality AMBER-Cons
 **fep:** input structures and results for FEP simulations
 
 **conformer\_validation:** molecule structures and their XFF results for the conformer validation (only molecules in the public domain are available)
+
+**fragmentation:** demonstration scripts to cut elementary fragments
