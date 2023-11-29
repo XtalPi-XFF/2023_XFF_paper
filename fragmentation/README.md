@@ -6,3 +6,5 @@ Scripts to cut compounds into elementary fragments. See Section S1 of our manusc
 ```
 python cut_compound.py
 ```
+
+Requirement: NetworkX, RDKit
